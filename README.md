@@ -1,4 +1,4 @@
-# Abnormal-Gate-MCBE-Map
+# An adventure map for minecraft bedrock edition 
 Click the mcworld file
 and also two mcpacks
 
